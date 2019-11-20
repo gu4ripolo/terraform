@@ -2,6 +2,9 @@
 
 Terraform scripts
 
+## example-autoscale
+It contains the scripts to create an Azure scale set. It installs nginx and stores the terraform state in Azure.
+
 ## example-modules
 It contains a script that creates a virtual machine using terraform modules.
 
